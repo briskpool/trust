@@ -1,0 +1,10 @@
+[15-Nov-2024 04:46:00 UTC] PHP Warning:  Undefined array key "message" in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 4
+[15-Nov-2024 04:47:56 UTC] PHP Warning:  Undefined array key "message" in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 4
+[15-Nov-2024 05:21:36 UTC] PHP Warning:  Undefined variable $user_name in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 29
+[15-Nov-2024 05:21:36 UTC] PHP Warning:  Undefined variable $mail_pass in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 30
+[15-Nov-2024 05:24:18 UTC] PHP Warning:  Undefined variable $user_name in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 29
+[15-Nov-2024 05:24:18 UTC] PHP Warning:  Undefined variable $mail_pass in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 30
+[15-Nov-2024 06:27:33 UTC] PHP Warning:  Undefined variable $user_name in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 29
+[15-Nov-2024 06:27:33 UTC] PHP Warning:  Undefined variable $mail_pass in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 30
+[15-Nov-2024 10:10:01 UTC] PHP Warning:  Undefined variable $user_name in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 29
+[15-Nov-2024 10:10:01 UTC] PHP Warning:  Undefined variable $mail_pass in /home/h7gmdy9wwsp3/public_html/test/sendEmail.php on line 30
