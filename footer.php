@@ -310,28 +310,4 @@
     });
 });
 </script> <!--End Dark theme switcher -->
-
-<script>
-            // Get all menu items with class 'menu-item'
-const menuItems = document.querySelectorAll('.menu-item');
-
-// Get the target div to modify its data-isopen attribute
-const toggleDiv = document.getElementById('toggleDivwallet');
-
-
-// Add event listeners for hover actions
-menuItems.forEach(item => {
-    item.addEventListener('mouseenter', () => {
-        // Set the data-isopen attribute to true when hovering over a menu item
-        toggleDiv.setAttribute('data-isopen', 'true');
-        console.log('data-isopen set to true on hover');
-    });
-
-    item.addEventListener('mouseleave', () => {
-        // Set the data-isopen attribute back to false when mouse leaves
-        toggleDiv.setAttribute('data-isopen', 'false');
-        console.log('data-isopen set to false on mouse leave');
-    });
-});
-        </script>
 </footer>

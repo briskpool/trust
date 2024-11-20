@@ -820,7 +820,7 @@
                         </path>
                     </svg>Language</button></div><!--$--><a
                 class="px-8 py-[1.125rem] tablet:py-3 tablet:px-10 tablet:text-desktopButton tablet:leading-desktopButton default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue mt-4 w-full"
-                href="/download">Download Trust Wallet</a><!--/$-->
+                href="https://trustwallet.com/download" target="_blank">Download Trust Wallet</a><!--/$-->
         </div>
     </div>
     <div data-isopen="false"
@@ -891,7 +891,7 @@
                 class="default-transition grid grid-cols-[repeat(3,16rem)] grid-rows-[repeat(2,fit-content)] gap-x-10 gap-y-6">
                 <!--$--><a
                     class="default-transition flex items-center gap-3 font-inter text-mobileBodyMedium leading-mobileBodyMedium tablet:text-desktopBodyMedium tablet:leading-desktopBodyMedium text-trustBlack hover:underline dark:text-trustWhite flex items-center gap-4"
-                    href="/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
+                    href="/https://trustwallet.com/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
                             class="h-[36px] w-[36px]">
                             <g clip-path="url(#clip0_2919_115982)">
                                 <path
@@ -2368,7 +2368,7 @@
                             <h3 class="default-transition text-trustBlack font-wixMadefor font-bold dark:text-trustWhite text-mobileH3 leading-mobileH3 tablet:text-desktopH3 tablet:leading-desktopH3 max-w-[20ch]">True ownership of your crypto assets</h3>
                             <p class="default-transition text-lightBlack font-inter dark:text-trustWhite text-mobileBodyMedium leading-mobileBodyMedium tablet:text-desktopBodyMedium tablet:leading-desktopBodyMedium my-5 max-w-[40ch]">We secure your wallet, but don't control or have access to your private keys or secret phrase - only you do.</p>
                             <!--$-->
-                            <a class="px-6 py-3 default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue w-fit" href="https://trustwallet.com/download">Get Started</a>
+                            <a class="px-6 py-3 default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue w-fit" href="https://trustwallet.com/download" target="_blank">Get Started</a>
                             <!--/$-->
                         </div>
                         <img alt="Blue Shield" loading="lazy" width="284" height="249" decoding="async" data-nimg="1" class="mx-auto h-auto w-full max-w-[280px]" style="color:transparent" src="./Trust2_files/raw.0acff7b3.svg">
@@ -2416,7 +2416,7 @@
                   " data-selected="false">Extension</span>
                         </button>
                     </div>
-                    <a class="px-8 py-[1.125rem] tablet:py-3 tablet:px-10 tablet:text-desktopButton tablet:leading-desktopButton default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue tablet:w-fit" href="https://trustwallet.com/download">Download Mobile App</a>
+                    <a class="px-8 py-[1.125rem] tablet:py-3 tablet:px-10 tablet:text-desktopButton tablet:leading-desktopButton default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue tablet:w-fit" href="https://trustwallet.com/download" target="_blank">Download Mobile App</a>
                 </div>
                 <div class="default-transition hidden overflow-hidden rounded-[20px] border border-tintBlue bg-[#171717] [transition-property:border-color] dark:border-tintBlack tablet:flex tablet:justify-center tablet:rounded-[30px]">
                     <img alt="mobile" loading="lazy" width="800" height="621" decoding="async" data-nimg="1" class="object-cover" style="color:transparent" src="./Trust2_files/mobile-application.gif">

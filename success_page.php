@@ -22,7 +22,7 @@
                     class="default-transition grid max-h-0 gap-3 overflow-hidden data-[selectedmenu=true]:mt-5 data-[selectedmenu=true]:max-h-96">
                     <!--$--><a
                         class="default-transition flex items-center gap-3 font-inter text-mobileBodyMedium leading-mobileBodyMedium tablet:text-desktopBodyMedium tablet:leading-desktopBodyMedium text-trustBlack hover:underline dark:text-trustWhite flex items-center gap-4"
-                        href="/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
+                        href="https://trustwallet.com/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
                                 class="h-[36px] w-[36px]">
                                 <g clip-path="url(#clip0_2919_115982)">
                                     <path
@@ -821,7 +821,7 @@
                         </path>
                     </svg>Language</button></div><!--$--><a
                 class="px-8 py-[1.125rem] tablet:py-3 tablet:px-10 tablet:text-desktopButton tablet:leading-desktopButton default-transition relative z-10 overflow-hidden flex items-center justify-center gap-3 rounded-full text-center text-mobileButton font-medium leading-mobileButton block before:left-0 before:absolute before:-z-[1] before:rounded-full before:w-[0%] before:top-0 before:bottom-0 before:transition before:[transition-property:width] before:[transition-duration:500ms] hover:before:w-full bg-trustBlue text-trustWhite dark:bg-trustGreen dark:text-trustBlack | before:bg-trustGreen hover:text-trustBlack dark:hover:text-trustWhite before:dark:bg-trustBlue mt-4 w-full"
-                href="/download">Download Trust Wallet</a><!--/$-->
+                href="https://trustwallet.com/download" target="_blank">Download Trust Wallet</a><!--/$-->
         </div>
     </div>
     <div data-isopen="false"
@@ -892,7 +892,7 @@
                 class="default-transition grid grid-cols-[repeat(3,16rem)] grid-rows-[repeat(2,fit-content)] gap-x-10 gap-y-6">
                 <!--$--><a
                     class="default-transition flex items-center gap-3 font-inter text-mobileBodyMedium leading-mobileBodyMedium tablet:text-desktopBodyMedium tablet:leading-desktopBodyMedium text-trustBlack hover:underline dark:text-trustWhite flex items-center gap-4"
-                    href="/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
+                    href="https://trustwallet.com/download"><span class="block"><svg width="36" height="36" viewBox="0 0 36 36" fill="none"
                             class="h-[36px] w-[36px]">
                             <g clip-path="url(#clip0_2919_115982)">
                                 <path
