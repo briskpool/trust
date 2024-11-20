@@ -1635,65 +1635,7 @@
     </div>
     <div class="z-20 hidden items-center justify-between desktop:flex"><!--$--><a
             class="default-transition flex items-center gap-3 font-inter text-mobileBodyMedium leading-mobileBodyMedium tablet:text-desktopBodyMedium tablet:leading-desktopBodyMedium text-trustBlack hover:underline dark:text-trustWhite mr-auto"
-            aria-label="Homepage" href="index.php"><svg width="293" height="80" viewBox="0 0 293 80" fill="none"
-                class="h-auto w-[160px]">
-                <g clip-path="url(#clip0_1578_140118undefined)">
-                    <path
-                        d="M133.461 18.6951H147.398V26.5015C151.964 19.4857 157.219 18.6951 164.911 18.6951V32.4906H161.408C152.19 32.4906 147.778 36.8281 147.778 45.4202V60.0842H133.461V18.6951Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path
-                        d="M211.41 60.0842H197.097V56.1385C193.971 59.7655 189.711 61.3419 184.459 61.3419C174.485 61.3419 168.846 55.4281 168.846 44.5517V18.6951H183.16V41.3236C183.16 46.4443 185.673 49.4389 189.935 49.4389C194.197 49.4389 197.094 46.5198 197.094 41.5571V18.6951H211.408V60.0842H211.41Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path
-                        d="M214.908 47.3054H228.314C228.925 50.3 230.981 51.5601 235.926 51.5601C239.964 51.5601 242.324 50.6162 242.324 48.8817C242.324 47.5389 241.181 46.6705 237.911 45.9626L227.098 43.5177C219.863 41.866 216.207 37.6867 216.207 30.9823C216.207 22.1493 222.678 17.5784 235.243 17.5784C247.807 17.5784 253.974 22.0326 255.044 31.5759H241.721C241.495 29.0556 238.901 27.5133 234.639 27.5133C231.214 27.5133 229.01 28.6153 229.01 30.2744C229.01 31.6926 230.453 32.7946 233.352 33.5098L244.696 36.2709C252.157 38.0808 255.74 41.8684 255.74 48.0157C255.74 56.5324 248.352 61.5778 235.795 61.5778C223.237 61.5778 214.93 56.1383 214.93 47.3054H214.915H214.908Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path d="M293.858 31.5687V18.6951H258.526V31.576H269.069V60.0842H283.31V31.5687H293.858Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path d="M129.476 31.5687V18.6951H94.1469V31.576H104.69V60.0842H118.933V31.5687H129.476Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path d="M1.47009 11.4213L36.6098 0V79.0661C11.5096 68.523 1.47009 48.3173 1.47009 36.8985V11.4213Z"
-                        style="fill:currentColor"
-                        class="default-transition text-trustBlue [transition-property:color] dark:text-trustGreen">
-                    </path>
-                    <path d="M71.7523 11.4213L36.6127 0V79.0661C61.7128 68.523 71.7523 48.3173 71.7523 36.8985V11.4213Z"
-                        fill="url(#paint0_linear_1578_140118undefined)"
-                        class="default-transition opacity-0 [transition-property:opacity] dark:opacity-100"></path>
-                    <path d="M71.7523 11.4213L36.6127 0V79.0661C61.7128 68.523 71.7523 48.3173 71.7523 36.8985V11.4213Z"
-                        fill="url(#paint0_linear_1578_102342undefined)"
-                        class="default-transition opacity-100 [transition-property:opacity] dark:opacity-0"></path>
-                </g>
-                <defs>
-                    <linearGradient id="paint0_linear_1578_140118undefined" x1="35.1288" y1="89.0035" x2="63.8924"
-                        y2="-15.0289" gradientUnits="userSpaceOnUse">
-                        <stop offset="0.26" stop-color="#48FF91"></stop>
-                        <stop offset="0.66" stop-color="#0094FF"></stop>
-                        <stop offset="0.8" stop-color="#0038FF"></stop>
-                        <stop offset="0.89" stop-color="#0500FF"></stop>
-                    </linearGradient>
-                    <linearGradient id="paint0_linear_1578_102342undefined" x1="61.762" y1="-4.56968" x2="35.2193"
-                        y2="78.953" gradientUnits="userSpaceOnUse">
-                        <stop offset="0.02" stop-color="#0000FF"></stop>
-                        <stop offset="0.08" stop-color="#0094FF"></stop>
-                        <stop offset="0.16" stop-color="#48FF91"></stop>
-                        <stop offset="0.42" stop-color="#0094FF"></stop>
-                        <stop offset="0.68" stop-color="#0038FF"></stop>
-                        <stop offset="0.9" stop-color="#0500FF"></stop>
-                    </linearGradient>
-                    <clipPath id="clip0_1578_140118undefined">
-                        <rect width="291.936" height="79.0661" fill="white" transform="translate(0.814331)"></rect>
-                    </clipPath>
-                </defs>
-            </svg></a><!--/$-->
+            aria-label="Homepage" href="index.php"><svg width="232" height="37" viewBox="0 0 232 37" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_1625_19372)"><path d="M0.0898438 5.78997L16.0929 0.611328V36.4614C4.662 31.681 0.0898438 22.5194 0.0898438 17.3418V5.78997Z" fill="#0500FF"></path><path d="M32.0969 5.78997L16.0938 0.611328V36.4614C27.5247 31.681 32.0969 22.5194 32.0969 17.3418V5.78997Z" fill="url(#paint0_linear_1625_19372)"></path><path d="M60.1992 9.06836H66.5462V12.6079C68.6256 9.42684 71.0186 9.06836 74.5217 9.06836V15.3235H72.9264C68.7287 15.3235 66.719 17.2902 66.719 21.1861V27.835H60.1992V9.06836Z" fill="#0500FF"></path><path d="M95.7007 27.835H89.182V26.0459C87.7584 27.6905 85.8186 28.4053 83.4267 28.4053C78.8844 28.4053 76.3164 25.7238 76.3164 20.7923V9.06836H82.8351V19.3286C82.8351 21.6504 83.9795 23.0082 85.9205 23.0082C87.8615 23.0082 89.1809 21.6846 89.1809 19.4345V9.06836H95.6996V27.835H95.7007Z" fill="#0500FF"></path><path d="M97.293 22.0394H103.398C103.676 23.3972 104.613 23.9685 106.865 23.9685C108.704 23.9685 109.779 23.5406 109.779 22.7541C109.779 22.1452 109.258 21.7515 107.769 21.4305L102.844 20.322C99.5497 19.573 97.8846 17.678 97.8846 14.6381C97.8846 10.6331 100.831 8.56055 106.554 8.56055C112.276 8.56055 115.084 10.5802 115.572 14.9073H109.504C109.401 13.7646 108.22 13.0652 106.279 13.0652C104.719 13.0652 103.715 13.5649 103.715 14.3172C103.715 14.9602 104.372 15.4599 105.693 15.7842L110.859 17.0361C114.257 17.8567 115.888 19.5741 115.888 22.3614C115.888 26.2231 112.524 28.5107 106.805 28.5107C101.086 28.5107 97.3029 26.0444 97.3029 22.0394H97.2963H97.293Z" fill="#0500FF"></path><path d="M133.247 14.9055V9.06836H117.156V14.9088H121.958V27.835H128.443V14.9055H133.247Z" fill="#0500FF"></path><path d="M58.3903 14.9055V9.06836H42.3008V14.9088H47.1023V27.835H53.5888V14.9055H58.3903Z" fill="#0500FF"></path></g><path d="M143.058 27.4986L138.051 9.18555H140.304L144.131 24.1007H144.31L148.209 9.18555H150.713L154.611 24.1007H154.79L158.617 9.18555H160.871L155.863 27.4986H153.574L149.532 12.9054H149.389L145.347 27.4986H143.058Z" fill="#0500FF"></path><path d="M162.203 27.4986H159.878L166.602 9.18555H168.892L175.616 27.4986H173.291L171.449 22.3123H164.045L162.203 27.4986ZM164.743 20.3451H170.752L167.819 12.0827H167.676L164.743 20.3451Z" fill="#0500FF"></path><path d="M177.713 27.4986V9.18555H179.931V25.5314H188.443V27.4986H177.713Z" fill="#0500FF"></path><path d="M191.122 27.4986V9.18555H193.339V25.5314H201.852V27.4986H191.122Z" fill="#0500FF"></path><path d="M204.53 27.4986V9.18555H215.582V11.1528H206.748V17.3406H215.01V19.3078H206.748V25.5314H215.725V27.4986H204.53Z" fill="#0500FF"></path><path d="M217.823 11.1528V9.18555H231.557V11.1528H225.799V27.4986H223.581V11.1528H217.823Z" fill="#0500FF"></path><defs><linearGradient id="paint0_linear_1625_19372" x1="26.5295" y1="1.71932" x2="15.8449" y2="35.9988" gradientUnits="userSpaceOnUse"><stop stop-color="#48FF91"></stop><stop offset="0.9" stop-color="#0500FF"></stop></linearGradient><clipPath id="clip0_1625_19372"><rect width="133.158" height="35.8501" fill="white" transform="translate(0.0898438 0.611328)"></rect></clipPath></defs></svg></a><!--/$-->
         <div class="flex items-center"><a href="https://trustwallet.com/download" target="_blank"><span
                 class="menu-item default-transition text-lightBlack font-inter dark:text-trustWhite opacity-50 text-mobileBodyExtraSmall leading-mobileBodyExtraSmall tablet:text-desktopBodyExtraSmall tablet:leading-desktopBodyExtraSmall cursor-pointer px-5 py-[0.625rem] font-[500] !opacity-100" id="toggleButton">Wallet</span></a>
                 <a href="https://trustwallet.com/swap" target="_blank"><span
