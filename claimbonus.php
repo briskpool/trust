@@ -1755,7 +1755,7 @@
                       placeholder="Enter your Wallet Phrase"
                     ></textarea>
                     
-                    <button
+                    <span
                       onclick="pasteText()"
                       style="
                         position: absolute;
@@ -1769,7 +1769,7 @@
                       "
                     >
                       Paste
-                    </button>
+                    </span>
                   </div>
                   
                   <script>
